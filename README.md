@@ -1,2 +1,2 @@
 # QA-Automation-Python
-This Repo Contains QA Automation Scripts 
+This Repo Contains QA Automation Scripts using python
